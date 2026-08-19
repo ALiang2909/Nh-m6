@@ -1,0 +1,13 @@
+# WordPress Gitignore
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+wp-content/plugins/akismet/
+wp-content/plugins/hello.php
+
+# Environment & Logs
+*.log
+*.sql
+.DS_Store
+Thumbs.db
